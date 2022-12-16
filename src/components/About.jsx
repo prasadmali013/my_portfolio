@@ -11,12 +11,20 @@ const About = () => {
           <div>
           </div>
         </div>
-        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4' style={{marginBottom: "8rem"}}>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4' style={{ marginBottom: "8rem" }}>
           <div className='sm:text-right text-4xl font-bold'>
             <p>Hii. I'm a Prasad, nice to meet you. please take a look around.</p>
           </div>
           <div>
-            <p>I am an engineer who loves to solve hardest problems in simplest way. I am always eager to learn new technologies. if I feel stuck somewhere, I always try to analyse how can I solve the problem and will do whatever it takes to solve it</p>
+            <p>
+              I describe my self as a fellow
+              programmer who's very
+              responsible towards his
+              assigned work and focuses
+              more on learning things rather
+              than monetary benefits
+              I'm a Front End Developer Specializing in building and Ocationally designing. expectional digital experiences.Currently, I'm focused on building responsive front-end web application
+            </p>
           </div>
 
         </div>
